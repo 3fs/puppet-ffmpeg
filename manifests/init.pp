@@ -1,3 +1,4 @@
+# main ffmpeg class
 class ffmpeg {
   include 'apt'
 
