@@ -1,5 +1,5 @@
 name         '3fs-ffmpeg'
-version      '0.0.2'
+version      '0.0.3'
 source       'https://github.com/3fs/puppet-ffmpeg'
 author       '3fs'
 license      'MIT License'

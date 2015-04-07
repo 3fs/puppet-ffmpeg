@@ -8,4 +8,4 @@ Using
 
     class { 'ffmpeg': }
 
-The module depends on `apt` module and installs a new apt repository `ppa:jon-severinsson/ffmpeg`.
+The module used to depend on `apt` repository `ppa:jon-severinsson/ffmpeg`. As this repository no longer exists, user has to provide packages for ffmpeg and all dependencies in her repository.
